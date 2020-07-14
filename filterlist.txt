@@ -5,6 +5,8 @@
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
-!ft.com##.o-header--sticky
-ft.com##.o-header--sticky-active
+ft.com##.o-header--sticky
+!ft.com##.o-header--sticky-active
+! Manchester Evening Standard fixed header
+manchestereveningnews.co.uk##+js(ra.js, fixed, div.primary)
 
