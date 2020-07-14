@@ -7,9 +7,15 @@
 !
 ft.com##.o-header--sticky
 !ft.com##.o-header--sticky-active
+!
+! None of these worked:
 ! Manchester Evening Standard fixed header
-! manchestereveningnews.co.uk##+js(ra, position, .mod-header)
-! manchestereveningnews.co.uk##+js(ra, position, .primary)
-! manchestereveningnews.co.uk##+js(ra, position, .publication-theme-highlight)
+!manchestereveningnews.co.uk##+js(ra, position, .mod-header)
+!manchestereveningnews.co.uk##+js(ra, position, .primary)
+!manchestereveningnews.co.uk##+js(ra, position, .publication-theme-highlight)
+!manchestereveningnews.co.uk#$#.primary { position: static;}
+!manchestereveningnews.co.uk#$#.mod-header { position: static;}
+!manchestereveningnews.co.uk##.primary:style(position: static)
+!manchestereveningnews.co.uk##.mod-header:style(position: static)
 
 
