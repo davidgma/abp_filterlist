@@ -1,13 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202007140001
+! Version:
 ! Title: David's Filter List
 ! Last modified:
 ! Expires: 4 days (update frequency)
-! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage:
 !
-! https://raw.githubusercontent.com/davidgma/abp_filterlist/master/filterlist.txt
-!
-! --------------------------Annoying popup and sticky header blocking rules-------------------!
-! FT sticky header
 ##.o-header--sticky
