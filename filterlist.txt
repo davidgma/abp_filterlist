@@ -6,3 +6,4 @@
 ! Homepage:
 !
 ##.o-header--sticky
+##.o-header__top
