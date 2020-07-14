@@ -8,5 +8,5 @@
 ft.com##.o-header--sticky
 !ft.com##.o-header--sticky-active
 ! Manchester Evening Standard fixed header
-manchestereveningnews.co.uk##+js(ra.js, position, div.primary)
+manchestereveningnews.co.uk##+js(ra.js, position, .mod-header)
 
