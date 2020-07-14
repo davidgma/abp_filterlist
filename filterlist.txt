@@ -5,5 +5,5 @@
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
-##.o-header--sticky
+##.o-header--stickyzz
 
