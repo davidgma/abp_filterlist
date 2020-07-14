@@ -1,3 +1,10 @@
-! https://raw.githubusercontent.com/davidgma/chess-opening-trainer/master/.editorconfig
+[Adblock Plus 2.0]
+! Version: 202007140001
+! Title: David's Filter List
+! Last modified: 14 Jul 2020 12:50 UTC
+! Expires: 4 days (update frequency)
+! License: http://creativecommons.org/licenses/by/3.0/
+! https://raw.githubusercontent.com/davidgma/abp_filterlist/master/filterlist
+! --------------------------Annoying popup and sticky header blocking rules-------------------!
 ! FT sticky header
 ##.o-header--sticky
