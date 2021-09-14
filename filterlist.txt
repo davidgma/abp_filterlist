@@ -6,6 +6,7 @@
 ! Homepage:
 !
 ft.com##.o-header--sticky
+ft.com##.o-tooltip--arrow-left
 !ft.com##.o-header--sticky-active
 !
 ! None of these worked:
