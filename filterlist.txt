@@ -23,3 +23,6 @@ ft.com##.o-tooltip--arrow-left
 ! 2022-03-12 https://www.snopes.com
 www.snopes.com##.tp-container-inner
 
+! Ocado annoying banner
+ocado.com##.container-OUDT-112
+
