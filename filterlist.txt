@@ -26,5 +26,5 @@ www.snopes.com##.tp-container-inner
 ! Ocado annoying banner
 ocado.com##.container-OUDT-112
 ! Daily Echo annoying sticky
-dailyecho.co.uk##.header-sticky-nav__wrapper
+dailyecho.co.uk##.header-sticky-nav
 
